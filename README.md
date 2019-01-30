@@ -18,3 +18,8 @@ Although it should be handled correctly if you abuse your fireplace, it is gener
 ### Faults
 
 Faults occur if the device cannot process the commands being sent. They may occur when using the remote control in tight conjunction with this app or sometimes when an excessive amount of commands are being sent simultaneously or from multiple sources. Due to regulations faults must be handled manually. If you happen to encounter a Fault your remote will display a code starting with F followed by the fault number (e.g. F08 ), the best way to resolve it is to press the up and down buttons (∧∨) together on your DRU remote control. This will reset the fireplace which allows you to control it again.
+
+
+### Versions
+0.0.1 Original version
+0.2.0 Fix for Homey Firmware v2
